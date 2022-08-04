@@ -7,6 +7,6 @@ import { Component, OnInit } from '@angular/core';
 })
 export class NameComponent implements OnInit {
   constructor() { }
-
+  nombre:string;
   ngOnInit(): void { }
 }
